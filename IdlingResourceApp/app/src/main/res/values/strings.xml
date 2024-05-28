@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Idling Resource App</string>
+    <string name="start">Start</string>
+    <string name="delay1">Delay 1 Done</string>
+    <string name="delay2">Delay 2 Done</string>
+    <string name="prepare">Persiapan</string>
+</resources>
